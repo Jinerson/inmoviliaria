@@ -1,0 +1,15 @@
+postgresql://neondb_owner:npg_lQuyGV1Od5zJ@ep-autumn-wind-atwr3l2u.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require
+
+Host
+ep-autumn-wind-atwr3l2u.c-9.us-east-1.aws.neon.tech
+Database
+neondb
+Role
+neondb_owner
+Password
+************
+Pooler host
+ep-autumn-wind-atwr3l2u-pooler.c-9.us-east-1.aws.neon.tech
+
+
+url api: https://inmoviliaria-wg6h.onrender.com/

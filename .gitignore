@@ -1,0 +1,40 @@
+# =====================
+# Python
+# =====================
+backend/env/
+backend/.env
+
+**/__pycache__/
+*.pyc
+
+# =====================
+# Flutter
+# =====================
+frontend/.dart_tool/
+frontend/build/
+
+# Android
+frontend/android/.gradle/
+frontend/android/local.properties
+
+# iOS
+frontend/ios/Pods/
+frontend/ios/Flutter/ephemeral/
+
+# macOS
+frontend/macos/Pods/
+frontend/macos/Flutter/ephemeral/
+
+# Linux
+frontend/linux/flutter/ephemeral/
+
+# Windows
+frontend/windows/flutter/ephemeral/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
